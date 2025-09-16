@@ -6,7 +6,7 @@
 ---
 
 ## 🌍 About Me
-- 🎓 B.Tech in Computer Science Engineering, Amrita Vishwa Vidyapeetham (GPA: 8.56/10)
+- 🎓 B.Tech in Computer Science Engineering, Amrita Vishwa Vidyapeetham 
 - 💻 Passionate about **Software Development, AI, and Full-Stack Development**
 - 🔧 Skilled in **JavaScript, Python, Go, SQL, HTML/CSS**
 - ⚡ Frameworks: **React.js, Next.js, Node.js, Express.js**
