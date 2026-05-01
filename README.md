@@ -20,48 +20,43 @@
 
 ## 🛠️ Tech Stack
 
-**AI/ML:**  
+**Systems & Security:**
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+
+**AI/ML:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Development:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-**Data & Tools:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**Tools & Infrastructure:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ---
 
 ## 💼 Featured Projects
 
-### 🧠 [Brain Tumor Detection System](https://github.com/yadhu-vipin/brain-tumor-detection)
-**Deep Learning for Medical Imaging** | PyTorch • ResNet • Next.js  
-- Trained ResNet-based CNN achieving **95% accuracy** on MRI tumor classification
-- Built web interface for radiologists to upload scans and receive real-time predictions
-- Explored model interpretability using Grad-CAM for clinical trust
+### 🛡️ [Aegis: High-Assurance Sandbox System](https://github.com/yadhu-vipin/Aegis_v1)
+**Systems Security & Binary Analysis** | Rust • WinAPI • HCS • Chrome API $|$ \emph{Jan 2026 -- Present}
+\begin{highlights}
+    \item Architecting a prototype sandbox in \textbf{Rust} to isolate and analyze untrusted binaries using Windows Host Compute Service (HCS) and restricted AppContainers.
+    \item Optimized memory efficiency via a \textbf{chunk-based streaming pipeline}, enabling the forensic analysis of large files (8GB+) on hardware with limited RAM.
+    \item Engineering a real-time inspection engine to detect disguised executables through magic-byte validation and \textbf{entropy analysis} for identifying encrypted payloads.
+    \item Developed a secure communication bridge using a Chrome Extension and Rust-based \textbf{Native Messaging} to pass browser data to the backend analysis service.
+    \item Implementing behavioral monitoring using the \textbf{Windows API} to track restricted process interactions and identify unauthorized system call patterns.
+\end{highlights}
 
-### 🎓 [OLabs AI Learning Platform](https://github.com/yadhu-vipin/olabs-platform)
+### 🎓 [OLabs AI Learning Platform](https://github.com/Dattaaanand/Hackon4)
 **Adaptive Education System** | Next.js • Gemini API  
 - **Winner, Olabs Hackathon (Feb 2025)**
 - Created AI-driven quiz platform with personalized assessment generation
 - Integrated conversational AI chatbot for student support
 
-### 📊 [XGBoost for Muscular Dystrophy Classification](https://github.com/yadhu-vipin/muscular-dystrophy-ml)
-**Published Research** | XGBoost • SHAP • Synthetic Medical Data  
-- Co-authored paper in *IJSRTM* (2026) on explainable AI for rare disease diagnosis
-- Implemented SHAP-based feature importance analysis for clinical interpretability
-- Addressed data scarcity using synthetic patient data generation
-
-### 🖥️ [Windows Health & Recovery Tool](https://github.com/yadhu-vipin/windows-health-checker)
-**System Automation** | Microsoft Graph API • PowerShell  
+### 🖥️ [Windows Health & Recovery Tool](https://github.com/ARJUN-RAJESH-24/WinKnight)
+**System Automation** | Windows API's+ PowerShell  
 - Automated Windows update monitoring and system restore point management
 - Built predictive alerts for potential system failures using historical logs
 
