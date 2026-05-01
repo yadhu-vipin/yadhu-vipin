@@ -73,15 +73,6 @@ International Journal of Students' Research in Technology & Management (2026)
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Olabs Hackathon Winner** (Feb 2025) – AI Learning Platform
-- 📝 **Published Researcher** – IJSRTM Journal (2026)
-- 🎖️ **HacktoberFest 2024** Contributor
-- 🧩 **Anokha CTF** – Forensics Track Participant (2024)
-
----
-
 ## 🎯 Exploring
 
 - 🔐 **AI for Cybersecurity** – Applying ML to threat detection and analysis
