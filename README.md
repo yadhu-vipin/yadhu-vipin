@@ -42,13 +42,7 @@
 
 ### 🛡️ [Aegis: High-Assurance Sandbox System](https://github.com/yadhu-vipin/Aegis_v1)
 **Systems Security & Binary Analysis** | Rust • WinAPI • HCS • Chrome API $|$ \emph{Jan 2026 -- Present}
-\begin{highlights}
-    \item Architecting a prototype sandbox in \textbf{Rust} to isolate and analyze untrusted binaries using Windows Host Compute Service (HCS) and restricted AppContainers.
-    \item Optimized memory efficiency via a \textbf{chunk-based streaming pipeline}, enabling the forensic analysis of large files (8GB+) on hardware with limited RAM.
-    \item Engineering a real-time inspection engine to detect disguised executables through magic-byte validation and \textbf{entropy analysis} for identifying encrypted payloads.
-    \item Developed a secure communication bridge using a Chrome Extension and Rust-based \textbf{Native Messaging} to pass browser data to the backend analysis service.
-    \item Implementing behavioral monitoring using the \textbf{Windows API} to track restricted process interactions and identify unauthorized system call patterns.
-\end{highlights}
+Engineered a high-performance Rust security engine that performs real-time byte sequencing and forensic analysis to intercept and neutralize malicious payloads within isolated sandbox environments.
 
 ### 🎓 [OLabs AI Learning Platform](https://github.com/Dattaaanand/Hackon4)
 **Adaptive Education System** | Next.js • Gemini API  
