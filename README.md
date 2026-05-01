@@ -24,6 +24,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 **AI/ML:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,14 +52,12 @@
 
 ### 🎓 [OLabs AI Learning Platform](https://github.com/Dattaaanand/Hackon4)
 **Adaptive Education System** | Next.js • Gemini API  
-- **Winner, Olabs Hackathon (Feb 2025)**
 - Created AI-driven quiz platform with personalized assessment generation
 - Integrated conversational AI chatbot for student support
 
 ### 🖥️ [Windows Health & Recovery Tool](https://github.com/ARJUN-RAJESH-24/WinKnight)
 **System Automation** | Windows API's+ PowerShell  
 - Automated Windows update monitoring and system restore point management
-- Built predictive alerts for potential system failures using historical logs
 
 ---
 
